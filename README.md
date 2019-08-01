@@ -1,11 +1,3 @@
-Please see our Report Publication on Google Docs: 
-https://docs.google.com/document/d/15_TQGryrslBMF6tk0QzfTw_YMzcEhzGqaSD0I440_CI/edit
-
-Please see our supporting slides on Google Slides: https://docs.google.com/presentation/d/12NxKbTygn1wUl1C37Nf2H1NHa9pTOvdzXbBYOYqfCVU/edit#slide=id.g5c01da52de_0_10
-
-
-
-
 Machine Learning for Horse Racing:
 Charles Spencer: SG-DSI-8
 
